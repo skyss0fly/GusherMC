@@ -9,13 +9,13 @@ class Loader extends PluginBase {
 
 
   public function JavaToMCPE() {
-const $javaprotocol = 764
+const $javaprotocol = 764;
   #java = TCP
 #bedrock = UDP
 
 
 
-  const $mcpeprotocol = 613
+  const $mcpeprotocol = 613;
 
 
   }
